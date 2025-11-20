@@ -27,3 +27,14 @@ def power(base, exponent)
     return result
 
 c = add(a, b) # 13
+
+
+class Test
+    self.number = 10
+    self.string = "Test"
+
+    def hello_world():
+        out("Hello World")
+    
+    def print(a):
+        out(a)
